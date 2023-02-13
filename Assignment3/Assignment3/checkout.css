@@ -1,0 +1,46 @@
+.container {
+    max-width: 960px;
+}
+
+fieldset,
+legend {
+    all: revert;
+    border-color: #C92B63;
+}
+
+legend {
+    color: #C92B63;
+}
+
+.btn-circle.btn-xl {
+    width: 60px;
+    height: 60px;
+    padding: 10px 16px;
+    border: 3px solid;
+    border-radius: 60px;
+    font-size: 18px;
+    line-height: 1.33;
+    font-weight: bold;
+}
+
+h2 {
+    color: #C92B63;
+}
+
+h5 {
+    font-size: 22px;
+}
+
+.start-button {
+    background-color: #414EAC;
+    width: 30%;
+}
+
+.group-button {
+    border: 1px solid #414EAC;
+    width: 20%;
+}
+
+.change {
+    font-size: 10px;
+}
